@@ -17,18 +17,18 @@ loading system that allows us to modify Minecraft's code as elegently as possibl
 Mezz, who has stepped up as the issue and pull request manager. Helping to keep me
 sane as well as guiding the community into creating better additions to Forge.
 
-Searge, Bspks, Fesh0r, ProfMobious, and all the rest over on the MCP team {of which 
-I am a part}. For creating some of the core tools needed to make Minecraft modding 
+Searge, Bspks, Fesh0r, ProfMobious, and all the rest over on the MCP team {of which
+I am a part}. For creating some of the core tools needed to make Minecraft modding
 both possible, and as stable as can be.
   On that note, here is some specific information of the MCP data we use:
     * Minecraft Coder Pack (MCP) *
-      Forge Mod Loader and Minecraft Forge have permission to distribute and automatically 
-      download components of MCP and distribute MCP data files. This permission is not 
+      Forge Mod Loader and Minecraft Forge have permission to distribute and automatically
+      download components of MCP and distribute MCP data files. This permission is not
       transitive and others wishing to redistribute the Minecraft Forge source independently
-      should seek permission of MCP or remove the MCP data files and request their users 
+      should seek permission of MCP or remove the MCP data files and request their users
       to download MCP separately.
-      
-And lastly, the countless community members who have spent time submitting bug reports, 
+
+And lastly, the countless community members who have spent time submitting bug reports,
 pull requests, and just helping out the community in general. Thank you.
 
 --LexManos
@@ -51,7 +51,7 @@ This support has been dropped as of Minecraft release 1.7, as Risugami no longer
 It also contains suggestions and hints and generous helpings of code from LexManos, author of MinecraftForge.
 http://www.minecraftforge.net/
 
-Additionally, it contains an implementation of topological sort based on that 
+Additionally, it contains an implementation of topological sort based on that
 published at http://keithschwarz.com/interesting/code/?dir=topological-sort
 
 It also contains code from the Maven project for performing versioned dependency
