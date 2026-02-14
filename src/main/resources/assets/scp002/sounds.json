@@ -1,0 +1,101 @@
+{
+  "scp002_ambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "scp002:ambient",
+        "stream": true,
+        "volume": 0.5,
+        "pitch": 0.8
+      }
+    ]
+  },
+  "scp002_creaking": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "scp002:creaking",
+        "stream": false,
+        "volume": 0.6,
+        "pitch": 0.9
+      }
+    ]
+  },
+  "scp002_heartbeat": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "scp002:heartbeat",
+        "stream": false,
+        "volume": 0.4,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "scp002_whisper": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "scp002:whisper",
+        "stream": false,
+        "volume": 0.3,
+        "pitch": 0.7
+      }
+    ]
+  },
+  "portal_activate": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "scp002:portal_activate",
+        "stream": false,
+        "volume": 1.0,
+        "pitch": 1.2
+      }
+    ]
+  },
+  "portal_deactivate": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "scp002:portal_deactivate",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 0.9
+      }
+    ]
+  },
+  "entity_absorb": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "scp002:entity_absorb",
+        "stream": false,
+        "volume": 0.7,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "entity_hurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "scp002:entity_hurt",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "entity_death": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "scp002:entity_death",
+        "stream": false,
+        "volume": 1.0,
+        "pitch": 0.8
+      }
+    ]
+  }
+}
